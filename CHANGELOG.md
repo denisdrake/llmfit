@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.25](https://github.com/AlexsJones/llmfit/compare/v0.9.24...v0.9.25) (2026-05-13)
+
+
+### Bug Fixes
+
+* **docker:** skip HTTP probe on Linux when Docker Desktop is not running ([#548](https://github.com/AlexsJones/llmfit/issues/548)) ([ce735c9](https://github.com/AlexsJones/llmfit/commit/ce735c95c39ab10bd936238b7ab611d336a13c12))
+
 ## [0.9.24](https://github.com/AlexsJones/llmfit/compare/v0.9.23...v0.9.24) (2026-05-12)
 
 
